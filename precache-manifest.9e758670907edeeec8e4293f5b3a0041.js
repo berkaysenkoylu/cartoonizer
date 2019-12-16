@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2035883cd73fafa11227d88926baf851",
+    "revision": "821267567c4bc3ac353f5c19cdef3c3e",
     "url": "/cartoonizer/index.html"
   },
   {
